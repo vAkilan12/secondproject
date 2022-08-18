@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	a := 30
+	a := 70
 	b := 40
 
 	fmt.Println(a + b)
